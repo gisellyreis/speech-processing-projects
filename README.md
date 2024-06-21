@@ -5,6 +5,7 @@ Welcome to my collection of speech processing projects! This repository contains
 ## Table of Contents
 
 - [Project 1: Speech to Text](SpeechToText)
+- [Project 2: Text to Speech](TextToSpeech)
 
 
 ## Project 1: Speech to Text
@@ -14,6 +15,15 @@ This project uses the basics of the `speech_recognition` library to convert spee
 - **Directory:** `SpeechToText/`
 - **Main File:** `main.py`
 - **Dependencies:** See `README.md`
+
+## Project 2: Text to Speech
+
+This project uses the `pyttsx3` library to convert text to speech.
+
+- **Directory:** `TextToSpeech/`
+- **Main File:** `main.py`
+- **Dependencies:** See `README.md`
+
 
 
 ## How to Use
